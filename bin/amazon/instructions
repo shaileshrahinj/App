@@ -1,0 +1,6 @@
+1. Login test
+2.Log out test
+3.category test(Choose verious items from the category)
+  3.1 select and item and navigate till the login page is displayed for further proceedings
+  3.1 call the login function and proceed to the checkout
+Verify item is added to the cart   
